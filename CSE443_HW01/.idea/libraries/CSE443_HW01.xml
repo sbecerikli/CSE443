@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CSE443_HW01">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CSE443_HW01.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
